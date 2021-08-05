@@ -2,7 +2,7 @@ Feedback Link - https://1drv.ms/v/s!AndVDhFVhrRKlCfMpliTPUyWZsD9
 
 Demo Video Link - https://drive.google.com/file/d/1prvvBPHVtu5ChmuTG7qFADzmlGdP-z94/view?usp=sharing
 
-ppt link - https://1drv.ms/p/s!AndVDhFVhrRKlCCwve3f1-tLxqsI
+PPT link - https://1drv.ms/p/s!AndVDhFVhrRKlCCwve3f1-tLxqsI
 
 Visa Approval Prediction using IBM Watson Machine Learning
 ==========================================================
